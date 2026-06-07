@@ -1,0 +1,4 @@
+interface:
+  display_name: "Entry Vibe Coding"
+  short_description: "Compile, automate, and test PlayEntry projects"
+  default_prompt: "Use $entry-vibe-coding to compile, run, visually test, and save a PlayEntry project."
